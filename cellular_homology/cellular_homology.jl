@@ -37,7 +37,7 @@ function process_graphs_from_file(filename::String)
         boundary_matrix, structure = construct_boundary_matrix(graph_data)
         
         # Compute homology.
-        homology_time = @elapsed h1 = Homology.compute_h1!(boundary_matrix, structure, rank=true)
+        homology_time = @elapsed h1 = Homology.compute_h1!(boundary_matrix, structure)
        
         println("Homology computation time: $(homology_time) seconds")
         

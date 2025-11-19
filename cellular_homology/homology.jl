@@ -79,7 +79,7 @@ function rank_mod2!(matrix::SparseMatrixCSC{Bool, Int})
     return rank
 end
 
-function compute_h0!(matrix::SparseMatrixCSC{Bool, Int}, structure_info; rank::Bool=false)
+function compute_h0!(matrix::SparseMatrixCSC{Bool, Int}, structure_info)
 
     # dim(H0) = |G_V| - rank(M_V).
     vertex_count = length(structure_info.vertex_cols)
@@ -90,7 +90,7 @@ function compute_h0!(matrix::SparseMatrixCSC{Bool, Int}, structure_info; rank::B
 end
 
 
-function compute_h1!(matrix::SparseMatrixCSC{Bool, Int}, structure_info; rank::Bool=false)
+function compute_h1!(matrix::SparseMatrixCSC{Bool, Int}, structure_info)
 
     # From the paper, dim(H1) = |G_E| - rank(M_E) - rank(M_C). We can look 
     edge_count = length(structure_info.edge_cols)
@@ -105,10 +105,7 @@ function compute_h1!(matrix::SparseMatrixCSC{Bool, Int}, structure_info; rank::B
 
 end
 
-"""
-Modal homology computation, so that we can use persistence or direct rank computation.
-"""
-function compute_homology!(matrix::SparseMatrixCSC{Bool, Int}, structure_info; rank::Bool=false)
+function compute_homology!(matrix::SparseMatrixCSC{Bool, Int}, structure_info)
 
     h0 = compute_h0!(copy(matrix), structure_info; rank=true)
     h1 = compute_h1!(copy(matrix), structure_info; rank=true)
