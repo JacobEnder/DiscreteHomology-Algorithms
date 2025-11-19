@@ -10,7 +10,7 @@ using .CycleDetection
 export extract_edges, construct_boundary_matrix, get_cycle_edges
 
 """
-Extract edges from adjacency list representation (optimized version)
+Extract edges as ordered pairs from adjacency list representation
 Returns a vector of edges as tuples (u, v) where u < v, using integer vertex IDs
 Also returns vertex mapping dictionaries for conversion between string and integer IDs
 """
@@ -57,13 +57,12 @@ function extract_edges(adj_list::Dict)
     return edges, vertex_to_int, int_to_vertex
 end
 
-# Extract edges from a cycle
+# Extract constituent edges from a cycle
 function get_cycle_edges(cycle, vertex_to_int::Dict)
 
     # Handle 3-cycles
     if length(cycle) == 3
 
-        # Triangle: all three vertices are connected to each other
         v1, v2, v3 = cycle  # sorted lexicographically
         # Convert to integers and ensure ordering
         i1, i2, i3 = vertex_to_int[v1], vertex_to_int[v2], vertex_to_int[v3]
