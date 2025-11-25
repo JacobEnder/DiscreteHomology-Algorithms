@@ -1,0 +1,5 @@
+Group,Total Graphs,Edge Graph Available,Cellular Available,Cubical Available,Fastest: Edge Graph,Fastest: Cellular,Fastest: Cubical,Cell/Edge: Comparisons,Cell/Edge: Cellular Wins,Cell/Edge: Edge Wins,Cell/Edge: Ratio Mean,Cell/Edge: Ratio Median,Cub/Edge: Comparisons,Cub/Edge: Cubical Wins,Cub/Edge: Edge Wins,Cub/Edge: Ratio Mean,Cub/Edge: Ratio Median,Cell/Cub: Comparisons,Cell/Cub: Cellular Wins,Cell/Cub: Cubical Wins,Cell/Cub: Ratio Mean,Cell/Cub: Ratio Median
+Low Vertices/Variable Edge Probability,200,200,200,200,0,200,0,200,200,0,0.01,0.00,200,3,197,10.23,9.83,200,200,0,0.00,0.00
+High Vertices/Variable Edge Probability,200,200,200,200,0,200,0,200,200,0,0.06,0.06,200,0,200,137.68,118.74,200,200,0,0.00,0.00
+Variable Vertices/High Edge Probability,130,130,130,77,0,130,0,130,130,0,0.06,0.06,77,0,77,98.02,104.89,77,77,0,0.00,0.00
+Variable Vertices/Low Edge Probability,125,125,125,125,0,125,0,125,125,0,0.01,0.01,125,1,124,27.92,25.66,125,125,0,0.00,0.00
