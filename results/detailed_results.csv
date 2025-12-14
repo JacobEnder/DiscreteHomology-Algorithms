@@ -402,203 +402,203 @@ erdos_renyi_100_0.12998933557333087,100,0.129989336,314,2885,3199,0,Low Vertices
 erdos_renyi_101_0.13,101,0.13,422,3759,4181,0,Variable Vertices/High Edge Probability,1.261474133,0.006933195,16.46213675,0.0055,13.0499,0.0004,cellular
 erdos_renyi_104_0.13,104,0.13,364,3471,3835,0,Variable Vertices/High Edge Probability,0.977304935,0.00635735,15.37385513,0.0065,15.7309,0.0004,cellular
 erdos_renyi_105_0.13,105,0.13,353,3550,3903,0,Variable Vertices/High Edge Probability,0.90595293,0.033267577,17.64051542,0.0367,19.4718,0.0019,cellular
-erdos_renyi_106_0.13,106,0.13,392,3746,4138,0,Variable Vertices/High Edge Probability,1.332583904,0.008278637,,0.0062,,,cellular
-erdos_renyi_106_0.13,106,0.13,469,4596,5065,0,Variable Vertices/High Edge Probability,0.64272213,0.016420074,,0.0255,,,cellular
-erdos_renyi_107_0.13,107,0.13,464,4289,4753,0,Variable Vertices/High Edge Probability,0.750077963,0.008749341,,0.0117,,,cellular
+erdos_renyi_106_0.13,106,0.13,392,3746,4138,0,Variable Vertices/High Edge Probability,1.332583904,0.008278637,(timed out),0.0062,,,cellular
+erdos_renyi_106_0.13,106,0.13,469,4596,5065,0,Variable Vertices/High Edge Probability,0.64272213,0.016420074,(timed out),0.0255,,,cellular
+erdos_renyi_107_0.13,107,0.13,464,4289,4753,0,Variable Vertices/High Edge Probability,0.750077963,0.008749341,(timed out),0.0117,,,cellular
 erdos_renyi_108_0.13,108,0.13,488,5009,5497,0,Variable Vertices/High Edge Probability,1.071326017,0.010997719,22.91009555,0.0103,21.3848,0.0005,cellular
-erdos_renyi_108_0.13,108,0.13,469,4989,5458,0,Variable Vertices/High Edge Probability,0.840054989,0.010217198,,0.0122,,,cellular
-erdos_renyi_109_0.13,109,0.13,412,4267,4679,0,Variable Vertices/High Edge Probability,1.809305906,0.008448821,,0.0047,,,cellular
-erdos_renyi_109_0.13,109,0.13,477,5079,5556,0,Variable Vertices/High Edge Probability,0.938183069,0.011630562,,0.0124,,,cellular
-erdos_renyi_110_0.13,110,0.13,382,3778,4160,0,Variable Vertices/High Edge Probability,1.073940039,0.007666376,,0.0071,,,cellular
-erdos_renyi_112_0.13,112,0.13,527,5699,6226,0,Variable Vertices/High Edge Probability,0.939630032,0.013056842,,0.0139,,,cellular
-erdos_renyi_113_0.13,113,0.13,464,5321,5785,0,Variable Vertices/High Edge Probability,1.169626951,0.012369955,,0.0106,,,cellular
-erdos_renyi_116_0.13,116,0.13,458,4794,5252,0,Variable Vertices/High Edge Probability,0.892950058,0.011243318,,0.0126,,,cellular
-erdos_renyi_118_0.13,118,0.13,543,6589,7132,0,Variable Vertices/High Edge Probability,0.870635033,0.015983666,,0.0184,,,cellular
-erdos_renyi_118_0.13,118,0.13,521,5839,6360,0,Variable Vertices/High Edge Probability,1.127943993,0.013676897,,0.0121,,,cellular
+erdos_renyi_108_0.13,108,0.13,469,4989,5458,0,Variable Vertices/High Edge Probability,0.840054989,0.010217198,(timed out),0.0122,,,cellular
+erdos_renyi_109_0.13,109,0.13,412,4267,4679,0,Variable Vertices/High Edge Probability,1.809305906,0.008448821,26.36926654,0.0047,14.5742,0.0003,cellular
+erdos_renyi_109_0.13,109,0.13,477,5079,5556,0,Variable Vertices/High Edge Probability,0.938183069,0.011630562,(timed out),0.0124,,,cellular
+erdos_renyi_110_0.13,110,0.13,382,3778,4160,0,Variable Vertices/High Edge Probability,1.073940039,0.007666376,(timed out),0.0071,,,cellular
+erdos_renyi_112_0.13,112,0.13,527,5699,6226,0,Variable Vertices/High Edge Probability,0.939630032,0.013056842,(timed out),0.0139,,,cellular
+erdos_renyi_113_0.13,113,0.13,464,5321,5785,0,Variable Vertices/High Edge Probability,1.169626951,0.012369955,30.85018657,0.0106,26.3761,0.0004,cellular
+erdos_renyi_116_0.13,116,0.13,458,4794,5252,0,Variable Vertices/High Edge Probability,0.892950058,0.011243318,24.92736332,0.0126,27.9157,0.0005,cellular
+erdos_renyi_118_0.13,118,0.13,543,6589,7132,0,Variable Vertices/High Edge Probability,0.870635033,0.015983666,(timed out),0.0184,,,cellular
+erdos_renyi_118_0.13,118,0.13,521,5839,6360,0,Variable Vertices/High Edge Probability,1.127943993,0.013676897,(timed out),0.0121,,,cellular
 erdos_renyi_120_0.13,120,0.13,628,7657,8285,0,Variable Vertices/High Edge Probability,1.64407897,0.024858082,44.88464996,0.0151,27.3008,0.0006,cellular
 erdos_renyi_121_0.13,121,0.13,647,7209,7856,0,Variable Vertices/High Edge Probability,1.48823595,0.019720281,45.6326759,0.0133,30.6623,0.0004,cellular
-erdos_renyi_121_0.13,121,0.13,562,6442,7004,0,Variable Vertices/High Edge Probability,1.580354929,0.016440929,,0.0104,,,cellular
+erdos_renyi_121_0.13,121,0.13,562,6442,7004,0,Variable Vertices/High Edge Probability,1.580354929,0.016440929,38.79848003,0.0104,24.5505,0.0004,cellular
 erdos_renyi_122_0.13,122,0.13,681,7618,8299,0,Variable Vertices/High Edge Probability,1.87340188,0.037671962,46.81015773,0.0201,24.9867,0.0008,cellular
 erdos_renyi_123_0.13,123,0.13,591,6739,7330,0,Variable Vertices/High Edge Probability,1.850281,0.022336521,41.74954925,0.0121,22.5639,0.0005,cellular
-erdos_renyi_123_0.13,123,0.13,696,8808,9504,0,Variable Vertices/High Edge Probability,2.269177914,0.02418721,,0.0107,,,cellular
-erdos_renyi_126_0.13,126,0.13,723,8837,9560,0,Variable Vertices/High Edge Probability,1.749866009,0.034549602,,0.0197,,,cellular
-erdos_renyi_127_0.13,127,0.13,681,8187,8868,0,Variable Vertices/High Edge Probability,1.61154294,0.027968489,,0.0174,,,cellular
-erdos_renyi_128_0.13,128,0.13,677,8237,8914,0,Variable Vertices/High Edge Probability,1.860254049,0.023630667,,0.0127,,,cellular
-erdos_renyi_129_0.13,129,0.13,872,11486,12358,0,Variable Vertices/High Edge Probability,1.810551882,0.036002174,,0.0199,,,cellular
-erdos_renyi_130_0.13,130,0.13,751,9091,9842,0,Variable Vertices/High Edge Probability,1.421713114,0.039895137,,0.0281,,,cellular
-erdos_renyi_133_0.13,133,0.13,908,12097,13005,0,Variable Vertices/High Edge Probability,2.303544044,0.043739865,,0.019,,,cellular
+erdos_renyi_123_0.13,123,0.13,696,8808,9504,0,Variable Vertices/High Edge Probability,2.269177914,0.02418721,62.90094374,0.0107,27.7197,0.0004,cellular
+erdos_renyi_126_0.13,126,0.13,723,8837,9560,0,Variable Vertices/High Edge Probability,1.749866009,0.034549602,(timed out),0.0197,,,cellular
+erdos_renyi_127_0.13,127,0.13,681,8187,8868,0,Variable Vertices/High Edge Probability,1.61154294,0.027968489,(timed out),0.0174,,,cellular
+erdos_renyi_128_0.13,128,0.13,677,8237,8914,0,Variable Vertices/High Edge Probability,1.860254049,0.023630667,68.75369098,0.0127,36.9593,0.0003,cellular
+erdos_renyi_129_0.13,129,0.13,872,11486,12358,0,Variable Vertices/High Edge Probability,1.810551882,0.036002174,(timed out),0.0199,,,cellular
+erdos_renyi_130_0.13,130,0.13,751,9091,9842,0,Variable Vertices/High Edge Probability,1.421713114,0.039895137,(timed out),0.0281,,,cellular
+erdos_renyi_133_0.13,133,0.13,908,12097,13005,0,Variable Vertices/High Edge Probability,2.303544044,0.043739865,(timed out),0.019,,,cellular
 erdos_renyi_134_0.13,134,0.13,791,10992,11783,0,Variable Vertices/High Edge Probability,1.957201958,0.035044783,72.01760087,0.0179,36.7962,0.0005,cellular
-erdos_renyi_134_0.13,134,0.13,743,8767,9510,0,Variable Vertices/High Edge Probability,1.329916954,0.026085624,,0.0196,,,cellular
-erdos_renyi_134_0.13,134,0.13,981,12495,13476,0,Variable Vertices/High Edge Probability,2.336961985,0.053718398,,0.023,,,cellular
-erdos_renyi_136_0.13,136,0.13,925,11712,12637,0,Variable Vertices/High Edge Probability,2.4244771,0.060270997,,0.0249,,,cellular
+erdos_renyi_134_0.13,134,0.13,743,8767,9510,0,Variable Vertices/High Edge Probability,1.329916954,0.026085624,91.53059012,0.0196,68.8243,0.0003,cellular
+erdos_renyi_134_0.13,134,0.13,981,12495,13476,0,Variable Vertices/High Edge Probability,2.336961985,0.053718398,(timed out),0.023,,,cellular
+erdos_renyi_136_0.13,136,0.13,925,11712,12637,0,Variable Vertices/High Edge Probability,2.4244771,0.060270997,(timed out),0.0249,,,cellular
 erdos_renyi_137_0.13,137,0.13,852,10471,11323,0,Variable Vertices/High Edge Probability,2.345781088,0.037506949,88.66652598,0.016,37.7983,0.0004,cellular
-erdos_renyi_137_0.13,137,0.13,946,12354,13300,0,Variable Vertices/High Edge Probability,2.335237026,0.05307654,,0.0227,,,cellular
+erdos_renyi_137_0.13,137,0.13,946,12354,13300,0,Variable Vertices/High Edge Probability,2.335237026,0.05307654,95.51817675,0.0227,40.903,0.0006,cellular
 erdos_renyi_138_0.13,138,0.13,963,12330,13293,0,Variable Vertices/High Edge Probability,2.221065998,0.056362468,106.9966546,0.0254,48.1736,0.0005,cellular
-erdos_renyi_138_0.13,138,0.13,813,10394,11207,0,Variable Vertices/High Edge Probability,2.336828232,0.04029452,,0.0172,,,cellular
+erdos_renyi_138_0.13,138,0.13,813,10394,11207,0,Variable Vertices/High Edge Probability,2.336828232,0.04029452,(timed out),0.0172,,,cellular
 erdos_renyi_139_0.13,139,0.13,945,12185,13130,0,Variable Vertices/High Edge Probability,2.867377043,0.050411022,80.87602132,0.0176,28.2056,0.0006,cellular
 erdos_renyi_140_0.13,140,0.13,999,13451,14450,0,Variable Vertices/High Edge Probability,3.146836996,0.048948449,94.64640588,0.0156,30.0767,0.0005,cellular
 erdos_renyi_140_0.13,140,0.13,943,12911,13854,0,Variable Vertices/High Edge Probability,2.366822004,0.043373967,110.1611995,0.0183,46.5439,0.0004,cellular
 erdos_renyi_141_0.13,141,0.13,995,14233,15228,0,Variable Vertices/High Edge Probability,3.047176838,0.059392178,103.005051,0.0195,33.8034,0.0006,cellular
-erdos_renyi_142_0.13,142,0.13,1022,14204,15226,0,Variable Vertices/High Edge Probability,2.000023842,0.05189779,,0.0259,,,cellular
-erdos_renyi_142_0.13,142,0.13,799,10352,11151,0,Variable Vertices/High Edge Probability,2.119127989,0.043037766,,0.0203,,,cellular
+erdos_renyi_142_0.13,142,0.13,1022,14204,15226,0,Variable Vertices/High Edge Probability,2.000023842,0.05189779,101.3577729,0.0259,50.6783,0.0005,cellular
+erdos_renyi_142_0.13,142,0.13,799,10352,11151,0,Variable Vertices/High Edge Probability,2.119127989,0.043037766,(timed out),0.0203,,,cellular
 erdos_renyi_144_0.13,144,0.13,1001,13805,14806,0,Variable Vertices/High Edge Probability,2.904916048,0.054860493,126.717395,0.0189,43.6217,0.0004,cellular
 erdos_renyi_145_0.13,145,0.13,1072,15261,16333,0,Variable Vertices/High Edge Probability,2.426384926,0.057705148,220.0176088,0.0238,90.6771,0.0003,cellular
-erdos_renyi_145_0.13,145,0.13,1025,14258,15283,0,Variable Vertices/High Edge Probability,11.77954221,0.592224352,,0.0503,,,cellular
-erdos_renyi_149_0.13,149,0.13,1203,16100,17303,0,Variable Vertices/High Edge Probability,3.125231981,0.074724282,,0.0239,,,cellular
-erdos_renyi_149_0.13,149,0.13,1158,16467,17625,0,Variable Vertices/High Edge Probability,3.574321032,0.081062532,,0.0227,,,cellular
+erdos_renyi_145_0.13,145,0.13,1025,14258,15283,0,Variable Vertices/High Edge Probability,11.77954221,0.592224352,(timed out),0.0503,,,cellular
+erdos_renyi_149_0.13,149,0.13,1203,16100,17303,0,Variable Vertices/High Edge Probability,3.125231981,0.074724282,136.0433876,0.0239,43.5307,0.0005,cellular
+erdos_renyi_149_0.13,149,0.13,1158,16467,17625,0,Variable Vertices/High Edge Probability,3.574321032,0.081062532,136.3823755,0.0227,38.1562,0.0006,cellular
 erdos_renyi_150_0.13,150,0.13,1283,19927,21210,0,Variable Vertices/High Edge Probability,4.379101992,0.090848824,144.3013154,0.0207,32.9523,0.0006,cellular
-erdos_renyi_152_0.13,152,0.13,1328,18862,20190,0,Variable Vertices/High Edge Probability,3.595345974,0.085521589,,0.0238,,,cellular
-erdos_renyi_152_0.13,152,0.13,1222,17337,18559,0,Variable Vertices/High Edge Probability,3.517534018,0.093404249,,0.0266,,,cellular
+erdos_renyi_152_0.13,152,0.13,1328,18862,20190,0,Variable Vertices/High Edge Probability,3.595345974,0.085521589,(timed out),0.0238,,,cellular
+erdos_renyi_152_0.13,152,0.13,1222,17337,18559,0,Variable Vertices/High Edge Probability,3.517534018,0.093404249,(timed out),0.0266,,,cellular
 erdos_renyi_153_0.13,153,0.13,1547,23341,24888,0,Variable Vertices/High Edge Probability,4.157441854,0.136688831,211.8327134,0.0329,50.9527,0.0006,cellular
-erdos_renyi_156_0.13,156,0.13,1657,25530,27187,0,Variable Vertices/High Edge Probability,4.301518202,0.173269811,,0.0403,,,cellular
-erdos_renyi_161_0.13,161,0.13,1404,20248,21652,0,Variable Vertices/High Edge Probability,4.185886145,0.118125041,,0.0282,,,cellular
-erdos_renyi_161_0.13,161,0.13,1426,21430,22856,0,Variable Vertices/High Edge Probability,4.082063913,0.123737544,,0.0303,,,cellular
+erdos_renyi_156_0.13,156,0.13,1657,25530,27187,0,Variable Vertices/High Edge Probability,4.301518202,0.173269811,(timed out),0.0403,,,cellular
+erdos_renyi_161_0.13,161,0.13,1404,20248,21652,0,Variable Vertices/High Edge Probability,4.185886145,0.118125041,326.98017,0.0282,78.1149,0.0004,cellular
+erdos_renyi_161_0.13,161,0.13,1426,21430,22856,0,Variable Vertices/High Edge Probability,4.082063913,0.123737544,(timed out),0.0303,,,cellular
 erdos_renyi_162_0.13,162,0.13,1532,24020,25552,0,Variable Vertices/High Edge Probability,4.824928045,0.129508124,299.0202958,0.0268,61.974,0.0004,cellular
 erdos_renyi_162_0.13,162,0.13,1611,25950,27561,0,Variable Vertices/High Edge Probability,4.35731101,0.201946634,301.5928547,0.0463,69.2154,0.0007,cellular
-erdos_renyi_162_0.13,162,0.13,1458,21963,23421,0,Variable Vertices/High Edge Probability,4.178081036,0.142780654,,0.0342,,,cellular
+erdos_renyi_162_0.13,162,0.13,1458,21963,23421,0,Variable Vertices/High Edge Probability,4.178081036,0.142780654,(timed out),0.0342,,,cellular
 erdos_renyi_164_0.13,164,0.13,1635,25788,27423,0,Variable Vertices/High Edge Probability,4.446573019,0.209276172,330.928086,0.0471,74.4232,0.0006,cellular
 erdos_renyi_164_0.13,164,0.13,1555,24659,26214,0,Variable Vertices/High Edge Probability,4.830168009,0.134232083,310.4882784,0.0278,64.2811,0.0004,cellular
 erdos_renyi_166_0.13,166,0.13,1655,25504,27159,0,Variable Vertices/High Edge Probability,4.963076115,0.148577157,410.1548233,0.0299,82.6413,0.0004,cellular
-erdos_renyi_166_0.13,166,0.13,1629,25602,27231,0,Variable Vertices/High Edge Probability,4.563766956,0.235533128,,0.0516,,,cellular
+erdos_renyi_166_0.13,166,0.13,1629,25602,27231,0,Variable Vertices/High Edge Probability,4.563766956,0.235533128,248.7049283,0.0516,54.4955,0.0009,cellular
 erdos_renyi_172_0.13,172,0.13,1979,33801,35780,0,Variable Vertices/High Edge Probability,9.49079895,0.522966407,572.3838751,0.0551,60.3093,0.0009,cellular
 erdos_renyi_174_0.13,174,0.13,1921,32031,33952,0,Variable Vertices/High Edge Probability,8.478468895,0.509660388,643.5826213,0.0601,75.9079,0.0008,cellular
 erdos_renyi_174_0.13,174,0.13,1706,28124,29830,0,Variable Vertices/High Edge Probability,6.818103075,0.433722015,369.5461715,0.0636,54.2007,0.0012,cellular
-erdos_renyi_174_0.13,174,0.13,1884,30722,32606,0,Variable Vertices/High Edge Probability,9.303898096,0.46908985,,0.0504,,,cellular
+erdos_renyi_174_0.13,174,0.13,1884,30722,32606,0,Variable Vertices/High Edge Probability,9.303898096,0.46908985,(timed out),0.0504,,,cellular
 erdos_renyi_175_0.13,175,0.13,1939,33991,35930,0,Variable Vertices/High Edge Probability,10.497329,0.551126094,491.4926946,0.0525,46.8207,0.0011,cellular
 erdos_renyi_177_0.13,177,0.13,2221,38953,41174,0,Variable Vertices/High Edge Probability,6.949532986,0.454671297,486.3516511,0.0654,69.9834,0.0009,cellular
-erdos_renyi_180_0.13,180,0.13,2247,41576,43823,0,Variable Vertices/High Edge Probability,8.463230133,0.468796109,,0.0554,,,cellular
-erdos_renyi_182_0.13,182,0.13,2500,45464,47964,0,Variable Vertices/High Edge Probability,9.289635181,0.578333466,,0.0623,,,cellular
+erdos_renyi_180_0.13,180,0.13,2247,41576,43823,0,Variable Vertices/High Edge Probability,8.463230133,0.468796109,(timed out),0.0554,,,cellular
+erdos_renyi_182_0.13,182,0.13,2500,45464,47964,0,Variable Vertices/High Edge Probability,9.289635181,0.578333466,606.021722,0.0623,65.2363,0.001,cellular
 erdos_renyi_183_0.13,183,0.13,2435,42422,44857,0,Variable Vertices/High Edge Probability,7.846425056,0.513685551,875.2801267,0.0655,111.5515,0.0006,cellular
 erdos_renyi_188_0.13,188,0.13,2051,36150,38201,0,Variable Vertices/High Edge Probability,14.14140201,0.926947398,493.6653429,0.0655,34.9092,0.0019,cellular
 erdos_renyi_188_0.13,188,0.13,2920,56976,59896,0,Variable Vertices/High Edge Probability,12.10562515,0.720456697,1668.872139,0.0595,137.8592,0.0004,cellular
-erdos_renyi_188_0.13,188,0.13,2480,44818,47298,0,Variable Vertices/High Edge Probability,9.303621054,0.564218475,,0.0606,,,cellular
-erdos_renyi_189_0.13,189,0.13,2293,40880,43173,0,Variable Vertices/High Edge Probability,7.740313053,0.509203524,,0.0658,,,cellular
+erdos_renyi_188_0.13,188,0.13,2480,44818,47298,0,Variable Vertices/High Edge Probability,9.303621054,0.564218475,589.0899155,0.0606,63.3183,0.001,cellular
+erdos_renyi_189_0.13,189,0.13,2293,40880,43173,0,Variable Vertices/High Edge Probability,7.740313053,0.509203524,571.6908847,0.0658,73.8589,0.0009,cellular
 erdos_renyi_193_0.13,193,0.13,2885,55536,58421,0,Variable Vertices/High Edge Probability,12.96391606,0.71863077,1234.193918,0.0554,95.2022,0.0006,cellular
 erdos_renyi_194_0.13,194,0.13,2479,44790,47269,0,Variable Vertices/High Edge Probability,10.07614589,0.566892333,804.7334484,0.0563,79.8652,0.0007,cellular
-erdos_renyi_194_0.13,194,0.13,2943,57521,60464,0,Variable Vertices/High Edge Probability,11.46363902,0.765366758,,0.0668,,,cellular
-erdos_renyi_195_0.13,195,0.13,2773,52387,55160,0,Variable Vertices/High Edge Probability,10.25434709,0.687994506,,0.0671,,,cellular
-erdos_renyi_196_0.13,196,0.13,2646,48972,51618,0,Variable Vertices/High Edge Probability,10.62739396,0.660943794,,0.0622,,,cellular
-erdos_renyi_197_0.13,197,0.13,2618,48127,50745,0,Variable Vertices/High Edge Probability,10.35862803,0.643135034,,0.0621,,,cellular
-erdos_renyi_199_0.13,199,0.13,2746,51669,54415,0,Variable Vertices/High Edge Probability,11.000844,0.69904782,,0.0635,,,cellular
+erdos_renyi_194_0.13,194,0.13,2943,57521,60464,0,Variable Vertices/High Edge Probability,11.46363902,0.765366758,(timed out),0.0668,,,cellular
+erdos_renyi_195_0.13,195,0.13,2773,52387,55160,0,Variable Vertices/High Edge Probability,10.25434709,0.687994506,848.393611,0.0671,82.735,0.0008,cellular
+erdos_renyi_196_0.13,196,0.13,2646,48972,51618,0,Variable Vertices/High Edge Probability,10.62739396,0.660943794,811.6870491,0.0622,76.3769,0.0008,cellular
+erdos_renyi_197_0.13,197,0.13,2618,48127,50745,0,Variable Vertices/High Edge Probability,10.35862803,0.643135034,753.6911204,0.0621,72.7597,0.0009,cellular
+erdos_renyi_199_0.13,199,0.13,2746,51669,54415,0,Variable Vertices/High Edge Probability,11.000844,0.69904782,(timed out),0.0635,,,cellular
 erdos_renyi_200_0.13,200,0.13,2752,54256,57008,0,Variable Vertices/High Edge Probability,13.24911213,0.699442044,1651.055343,0.0528,124.6163,0.0004,cellular
 erdos_renyi_200_0.13,200,0.13,2644,49570,52214,0,Variable Vertices/High Edge Probability,9.979872942,0.670995713,951.9564149,0.0672,95.3876,0.0007,cellular
-erdos_renyi_200_0.13,200,0.13,2654,51094,53748,0,Variable Vertices/High Edge Probability,11.87487388,0.700681806,,0.059,,,cellular
+erdos_renyi_200_0.13,200,0.13,2654,51094,53748,0,Variable Vertices/High Edge Probability,11.87487388,0.700681806,(timed out),0.059,,,cellular
 erdos_renyi_201_0.13,201,0.13,2925,57181,60106,0,Variable Vertices/High Edge Probability,12.83775401,0.739995713,913.0799274,0.0576,71.1246,0.0008,cellular
 erdos_renyi_201_0.13,201,0.13,3186,63975,67161,0,Variable Vertices/High Edge Probability,12.49993396,0.896580244,1917.501417,0.0717,153.4009,0.0005,cellular
-erdos_renyi_201_0.13,201,0.13,2837,55606,58443,0,Variable Vertices/High Edge Probability,12.06476188,0.832350794,,0.069,,,cellular
+erdos_renyi_201_0.13,201,0.13,2837,55606,58443,0,Variable Vertices/High Edge Probability,12.06476188,0.832350794,850.5685422,0.069,70.5002,0.001,cellular
 erdos_renyi_202_0.13,202,0.13,3223,63072,66295,0,Variable Vertices/High Edge Probability,12.94622803,0.875473702,2042.812487,0.0676,157.7921,0.0004,cellular
 erdos_renyi_203_0.13,203,0.13,3295,63818,67113,0,Variable Vertices/High Edge Probability,13.04051185,0.916339959,1933.175506,0.0703,148.2438,0.0005,cellular
 erdos_renyi_205_0.13,205,0.13,2844,54990,57834,0,Variable Vertices/High Edge Probability,12.30709887,0.769879875,917.8082015,0.0626,74.5755,0.0008,cellular
 erdos_renyi_206_0.13,206,0.13,2828,55044,57872,0,Variable Vertices/High Edge Probability,12.73982096,0.816206475,1078.777095,0.0641,84.6776,0.0008,cellular
-erdos_renyi_206_0.13,206,0.13,3079,60396,63475,0,Variable Vertices/High Edge Probability,13.52764297,0.902788346,,0.0667,,,cellular
-erdos_renyi_208_0.13,208,0.13,3310,68348,71658,0,Variable Vertices/High Edge Probability,14.97568798,1.258478496,,0.084,,,cellular
+erdos_renyi_206_0.13,206,0.13,3079,60396,63475,0,Variable Vertices/High Edge Probability,13.52764297,0.902788346,(timed out),0.0667,,,cellular
+erdos_renyi_208_0.13,208,0.13,3310,68348,71658,0,Variable Vertices/High Edge Probability,14.97568798,1.258478496,(timed out),0.084,,,cellular
 erdos_renyi_209_0.13,209,0.13,3061,60462,63523,0,Variable Vertices/High Edge Probability,12.75202394,0.822649069,1526.226959,0.0645,119.6851,0.0005,cellular
 erdos_renyi_209_0.13,209,0.13,3353,66354,69707,0,Variable Vertices/High Edge Probability,15.53581405,1.250842158,1342.525043,0.0805,86.4149,0.0009,cellular
-erdos_renyi_209_0.13,209,0.13,3284,67420,70704,0,Variable Vertices/High Edge Probability,14.75714803,1.246953686,,0.0845,,,cellular
-erdos_renyi_209_0.13,209,0.13,3189,61221,64410,0,Variable Vertices/High Edge Probability,11.99262094,0.912114601,,0.0761,,,cellular
+erdos_renyi_209_0.13,209,0.13,3284,67420,70704,0,Variable Vertices/High Edge Probability,14.75714803,1.246953686,1087.517462,0.0845,73.6943,0.0011,cellular
+erdos_renyi_209_0.13,209,0.13,3189,61221,64410,0,Variable Vertices/High Edge Probability,11.99262094,0.912114601,(timed out),0.0761,,,cellular
 erdos_renyi_210_0.13,210,0.13,3450,69073,72523,0,Variable Vertices/High Edge Probability,15.01480198,1.289451267,1576.592271,0.0859,105.0025,0.0008,cellular
 erdos_renyi_213_0.13,213,0.13,3341,69999,73340,0,Variable Vertices/High Edge Probability,15.48302102,1.337823275,1911.879111,0.0864,123.4823,0.0007,cellular
-erdos_renyi_213_0.13,213,0.13,3289,65008,68297,0,Variable Vertices/High Edge Probability,14.87365007,1.301738439,,0.0875,,,cellular
-erdos_renyi_215_0.13,215,0.13,3497,70807,74304,0,Variable Vertices/High Edge Probability,23.57013297,1.423103331,,0.0604,,,cellular
-erdos_renyi_216_0.13,216,0.13,3487,71465,74952,0,Variable Vertices/High Edge Probability,23.73185802,1.453120575,,0.0612,,,cellular
+erdos_renyi_213_0.13,213,0.13,3289,65008,68297,0,Variable Vertices/High Edge Probability,14.87365007,1.301738439,1150.563362,0.0875,77.3558,0.0011,cellular
+erdos_renyi_215_0.13,215,0.13,3497,70807,74304,0,Variable Vertices/High Edge Probability,23.57013297,1.423103331,1307.859599,0.0604,55.488,0.0011,cellular
+erdos_renyi_216_0.13,216,0.13,3487,71465,74952,0,Variable Vertices/High Edge Probability,23.73185802,1.453120575,1373.149652,0.0612,57.861,0.0011,cellular
 erdos_renyi_217_0.13,217,0.13,3804,80177,83981,0,Variable Vertices/High Edge Probability,18.32048106,1.297965114,1922.837313,0.0708,104.9556,0.0007,cellular
-erdos_renyi_218_0.13,218,0.13,3429,72919,76348,0,Variable Vertices/High Edge Probability,29.12502384,2.085252775,,0.0716,,,cellular
+erdos_renyi_218_0.13,218,0.13,3429,72919,76348,0,Variable Vertices/High Edge Probability,29.12502384,2.085252775,1755.309292,0.0716,60.2681,0.0012,cellular
 erdos_renyi_219_0.13,219,0.13,3604,73108,76712,0,Variable Vertices/High Edge Probability,24.51303792,1.429187175,1996.136894,0.0583,81.4316,0.0007,cellular
 erdos_renyi_219_0.13,219,0.13,4095,88140,92235,0,Variable Vertices/High Edge Probability,21.86320305,1.390006686,2401.26293,0.0636,109.8313,0.0006,cellular
-erdos_renyi_219_0.13,219,0.13,3991,86123,90114,0,Variable Vertices/High Edge Probability,20.80284095,1.556431862,,0.0748,,,cellular
-erdos_renyi_219_0.13,219,0.13,3956,83053,87009,0,Variable Vertices/High Edge Probability,19.5259161,1.32078648,,0.0676,,,cellular
+erdos_renyi_219_0.13,219,0.13,3991,86123,90114,0,Variable Vertices/High Edge Probability,20.80284095,1.556431862,1788.171945,0.0748,85.9581,0.0009,cellular
+erdos_renyi_219_0.13,219,0.13,3956,83053,87009,0,Variable Vertices/High Edge Probability,19.5259161,1.32078648,2301.426358,0.0676,117.8652,0.0006,cellular
 erdos_renyi_220_0.13,220,0.13,3684,77235,80919,0,Variable Vertices/High Edge Probability,19.43610883,1.220196028,2037.583125,0.0628,104.8349,0.0006,cellular
-erdos_renyi_220_0.13,220,0.13,3552,71454,75006,0,Variable Vertices/High Edge Probability,24.1341238,1.441695917,,0.0597,,,cellular
-erdos_renyi_222_0.13,222,0.13,3938,83523,87461,0,Variable Vertices/High Edge Probability,20.20813107,1.451465399,,0.0718,,,cellular
+erdos_renyi_220_0.13,220,0.13,3552,71454,75006,0,Variable Vertices/High Edge Probability,24.1341238,1.441695917,1444.530945,0.0597,59.8543,0.001,cellular
+erdos_renyi_222_0.13,222,0.13,3938,83523,87461,0,Variable Vertices/High Edge Probability,20.20813107,1.451465399,1778.163316,0.0718,87.9925,0.0008,cellular
 erdos_renyi_223_0.13,223,0.13,3996,85363,89359,0,Variable Vertices/High Edge Probability,17.08525705,1.37559511,2444.548369,0.0805,143.0794,0.0006,cellular
-erdos_renyi_223_0.13,223,0.13,4252,92789,97041,0,Variable Vertices/High Edge Probability,18.2039969,1.632210951,,0.0897,,,cellular
+erdos_renyi_223_0.13,223,0.13,4252,92789,97041,0,Variable Vertices/High Edge Probability,18.2039969,1.632210951,(timed out),0.0897,,,cellular
 erdos_renyi_225_0.13,225,0.13,3936,82484,86420,0,Variable Vertices/High Edge Probability,18.68465996,1.373029211,2198.155862,0.0735,117.6449,0.0006,cellular
 erdos_renyi_227_0.13,227,0.13,4252,93730,97982,0,Variable Vertices/High Edge Probability,25.27947211,1.512087077,3506.16949,0.0598,138.6963,0.0004,cellular
-erdos_renyi_228_0.13,228,0.13,4023,87108,91131,0,Variable Vertices/High Edge Probability,16.81820107,1.521601025,,0.0905,,,cellular
+erdos_renyi_228_0.13,228,0.13,4023,87108,91131,0,Variable Vertices/High Edge Probability,16.81820107,1.521601025,2350.417201,0.0905,139.7544,0.0006,cellular
 erdos_renyi_230_0.13,230,0.13,5206,118833,124039,0,Variable Vertices/High Edge Probability,32.50543022,2.043522057,4453.897546,0.0629,137.0201,0.0005,cellular
 erdos_renyi_230_0.13,230,0.13,4168,91981,96149,0,Variable Vertices/High Edge Probability,26.92383814,1.523638506,2824.082771,0.0566,104.8915,0.0005,cellular
-erdos_renyi_231_0.13,231,0.13,4536,101570,106106,0,Variable Vertices/High Edge Probability,24.69553614,1.727390288,,0.0699,,,cellular
-erdos_renyi_231_0.13,231,0.13,4265,91396,95661,0,Variable Vertices/High Edge Probability,21.81566691,1.517496041,,0.0696,,,cellular
+erdos_renyi_231_0.13,231,0.13,4536,101570,106106,0,Variable Vertices/High Edge Probability,24.69553614,1.727390288,(timed out),0.0699,,,cellular
+erdos_renyi_231_0.13,231,0.13,4265,91396,95661,0,Variable Vertices/High Edge Probability,21.81566691,1.517496041,(timed out),0.0696,,,cellular
 erdos_renyi_232_0.13,232,0.13,4246,94825,99071,0,Variable Vertices/High Edge Probability,25.04280996,1.617474782,2199.035569,0.0646,87.8111,0.0007,cellular
 erdos_renyi_232_0.13,232,0.13,4424,99659,104083,0,Variable Vertices/High Edge Probability,27.07990909,1.771432184,3026.649457,0.0654,111.7673,0.0006,cellular
-erdos_renyi_232_0.13,232,0.13,4547,98941,103488,0,Variable Vertices/High Edge Probability,25.19271493,1.751248937,,0.0695,,,cellular
+erdos_renyi_232_0.13,232,0.13,4547,98941,103488,0,Variable Vertices/High Edge Probability,25.19271493,1.751248937,2742.277297,0.0695,108.852,0.0006,cellular
 erdos_renyi_233_0.13,233,0.13,4524,97515,102039,0,Variable Vertices/High Edge Probability,24.67744398,1.644566671,2861.482747,0.0666,115.9554,0.0006,cellular
 erdos_renyi_233_0.13,233,0.13,4492,100848,105340,0,Variable Vertices/High Edge Probability,26.16023111,1.731575234,3982.926079,0.0662,152.2512,0.0004,cellular
-erdos_renyi_233_0.13,233,0.13,4623,107481,112104,0,Variable Vertices/High Edge Probability,30.70784688,1.940509032,,0.0632,,,cellular
-erdos_renyi_234_0.13,234,0.13,4651,102100,106751,0,Variable Vertices/High Edge Probability,26.47843695,1.908262495,,0.0721,,,cellular
-erdos_renyi_234_0.13,234,0.13,4582,102077,106659,0,Variable Vertices/High Edge Probability,26.72582412,2.013154414,,0.0753,,,cellular
+erdos_renyi_233_0.13,233,0.13,4623,107481,112104,0,Variable Vertices/High Edge Probability,30.70784688,1.940509032,(timed out),0.0632,,,cellular
+erdos_renyi_234_0.13,234,0.13,4651,102100,106751,0,Variable Vertices/High Edge Probability,26.47843695,1.908262495,2646.931511,0.0721,99.9655,0.0007,cellular
+erdos_renyi_234_0.13,234,0.13,4582,102077,106659,0,Variable Vertices/High Edge Probability,26.72582412,2.013154414,3005.211987,0.0753,112.446,0.0007,cellular
 erdos_renyi_237_0.13,237,0.13,4565,104052,108617,0,Variable Vertices/High Edge Probability,27.33906603,2.065152917,3131.020894,0.0755,114.5255,0.0007,cellular
 erdos_renyi_238_0.13,238,0.13,4991,114023,119014,0,Variable Vertices/High Edge Probability,33.99301815,2.316289926,4798.082591,0.0681,141.1491,0.0005,cellular
-erdos_renyi_240_0.13,240,0.13,5418,129837,135255,0,Variable Vertices/High Edge Probability,34.70079899,4.567830286,,0.1316,,,cellular
+erdos_renyi_240_0.13,240,0.13,5418,129837,135255,0,Variable Vertices/High Edge Probability,34.70079899,4.567830286,4506.27633,0.1316,129.8609,0.001,cellular
 erdos_renyi_242_0.13,242,0.13,4759,109177,113936,0,Variable Vertices/High Edge Probability,24.39096117,2.24436355,4460.275751,0.092,182.8659,0.0005,cellular
-erdos_renyi_242_0.13,242,0.13,5019,115890,120909,0,Variable Vertices/High Edge Probability,28.60149598,2.420768495,,0.0846,,,cellular
-erdos_renyi_242_0.13,242,0.13,5149,118433,123582,0,Variable Vertices/High Edge Probability,25.45206499,2.336761155,,0.0918,,,cellular
+erdos_renyi_242_0.13,242,0.13,5019,115890,120909,0,Variable Vertices/High Edge Probability,28.60149598,2.420768495,3358.87202,0.0846,117.4369,0.0007,cellular
+erdos_renyi_242_0.13,242,0.13,5149,118433,123582,0,Variable Vertices/High Edge Probability,25.45206499,2.336761155,(timed out),0.0918,,,cellular
 erdos_renyi_243_0.13,243,0.13,4967,113411,118378,0,Variable Vertices/High Edge Probability,27.96906495,2.321913879,4801.133932,0.083,171.6587,0.0005,cellular
-erdos_renyi_243_0.13,243,0.13,5220,125550,130770,0,Variable Vertices/High Edge Probability,33.96800804,4.419939471,,0.1301,,,cellular
-erdos_renyi_244_0.13,244,0.13,4921,114775,119696,0,Variable Vertices/High Edge Probability,25.09804082,2.359851228,,0.094,,,cellular
+erdos_renyi_243_0.13,243,0.13,5220,125550,130770,0,Variable Vertices/High Edge Probability,33.96800804,4.419939471,(timed out),0.1301,,,cellular
+erdos_renyi_244_0.13,244,0.13,4921,114775,119696,0,Variable Vertices/High Edge Probability,25.09804082,2.359851228,3306.751645,0.094,131.7534,0.0007,cellular
 erdos_renyi_245_0.13,245,0.13,5331,122914,128245,0,Variable Vertices/High Edge Probability,34.22799015,4.483931159,4475.58938,0.131,130.7582,0.001,cellular
 erdos_renyi_246_0.13,246,0.13,5253,121410,126663,0,Variable Vertices/High Edge Probability,34.97217202,4.077214931,4757.751764,0.1166,136.0439,0.0009,cellular
 erdos_renyi_246_0.13,246,0.13,5147,119764,124911,0,Variable Vertices/High Edge Probability,32.23790216,4.268166005,4470.573164,0.1324,138.6744,0.001,cellular
-erdos_renyi_247_0.13,247,0.13,5080,116090,121170,0,Variable Vertices/High Edge Probability,33.46056604,4.253384536,,0.1271,,,cellular
+erdos_renyi_247_0.13,247,0.13,5080,116090,121170,0,Variable Vertices/High Edge Probability,33.46056604,4.253384536,3281.405706,0.1271,98.0678,0.0013,cellular
 erdos_renyi_248_0.13,248,0.13,5588,132740,138328,0,Variable Vertices/High Edge Probability,85.13092804,4.885144546,6166.338175,0.0574,72.4336,0.0008,cellular
 erdos_renyi_249_0.13,249,0.13,5736,139883,145619,0,Variable Vertices/High Edge Probability,91.28383803,5.301498592,4999.769538,0.0581,54.7717,0.0011,cellular
-erdos_renyi_253_0.13,253,0.13,5896,144650,150546,0,Variable Vertices/High Edge Probability,41.33690214,3.538940248,,0.0856,,,cellular
+erdos_renyi_253_0.13,253,0.13,5896,144650,150546,0,Variable Vertices/High Edge Probability,41.33690214,3.538940248,(timed out),0.0856,,,cellular
 erdos_renyi_254_0.13,254,0.13,5805,141361,147166,0,Variable Vertices/High Edge Probability,36.24346495,3.356235821,8269.302355,0.0926,228.1598,0.0004,cellular
 erdos_renyi_254_0.13,254,0.13,5782,140596,146378,0,Variable Vertices/High Edge Probability,36.08063817,3.218638313,6732.390511,0.0892,186.5929,0.0005,cellular
-erdos_renyi_254_0.13,254,0.13,6200,158246,164446,0,Variable Vertices/High Edge Probability,35.27527809,3.717563457,,0.1054,,,cellular
-erdos_renyi_254_0.13,254,0.13,6354,156425,162779,0,Variable Vertices/High Edge Probability,34.78752613,3.39099961,,0.0975,,,cellular
+erdos_renyi_254_0.13,254,0.13,6200,158246,164446,0,Variable Vertices/High Edge Probability,35.27527809,3.717563457,5578.461158,0.1054,158.1408,0.0007,cellular
+erdos_renyi_254_0.13,254,0.13,6354,156425,162779,0,Variable Vertices/High Edge Probability,34.78752613,3.39099961,5810.65615,0.0975,167.0327,0.0006,cellular
 erdos_renyi_255_0.13,255,0.13,6417,160133,166550,0,Variable Vertices/High Edge Probability,39.63657093,3.588059305,8756.775506,0.0905,220.9267,0.0004,cellular
-erdos_renyi_256_0.13,256,0.13,6426,162907,169333,0,Variable Vertices/High Edge Probability,39.58021688,3.501817798,,0.0885,,,cellular
+erdos_renyi_256_0.13,256,0.13,6426,162907,169333,0,Variable Vertices/High Edge Probability,39.58021688,3.501817798,(timed out),0.0885,,,cellular
 erdos_renyi_257_0.13,257,0.13,6091,151194,157285,0,Variable Vertices/High Edge Probability,48.70230508,3.466315186,5147.028592,0.0712,105.6835,0.0007,cellular
-erdos_renyi_258_0.13,258,0.13,5889,146312,152201,0,Variable Vertices/High Edge Probability,34.97277904,3.558549391,,0.1018,,,cellular
+erdos_renyi_258_0.13,258,0.13,5889,146312,152201,0,Variable Vertices/High Edge Probability,34.97277904,3.558549391,(timed out),0.1018,,,cellular
 erdos_renyi_259_0.13,259,0.13,6468,159657,166125,0,Variable Vertices/High Edge Probability,41.4836998,3.470629187,9940.891741,0.0837,239.6337,0.0003,cellular
-erdos_renyi_262_0.13,262,0.13,6016,147021,153037,0,Variable Vertices/High Edge Probability,34.33246803,3.277547874,,0.0955,,,cellular
-erdos_renyi_263_0.13,263,0.13,6587,167242,173829,0,Variable Vertices/High Edge Probability,47.55875993,3.603199285,,0.0758,,,cellular
+erdos_renyi_262_0.13,262,0.13,6016,147021,153037,0,Variable Vertices/High Edge Probability,34.33246803,3.277547874,(timed out),0.0955,,,cellular
+erdos_renyi_263_0.13,263,0.13,6587,167242,173829,0,Variable Vertices/High Edge Probability,47.55875993,3.603199285,6446.850023,0.0758,135.5555,0.0006,cellular
 erdos_renyi_264_0.13,264,0.13,6556,166738,173294,0,Variable Vertices/High Edge Probability,69.81437778,3.763094658,7895.048021,0.0539,113.0863,0.0005,cellular
-erdos_renyi_265_0.13,265,0.13,6966,183495,190461,0,Variable Vertices/High Edge Probability,53.05859709,4.564456725,,0.086,,,cellular
-erdos_renyi_266_0.13,266,0.13,6789,175598,182387,0,Variable Vertices/High Edge Probability,50.46151114,4.138927212,,0.082,,,cellular
-erdos_renyi_266_0.13,266,0.13,6597,166580,173177,0,Variable Vertices/High Edge Probability,51.88683915,3.600285813,,0.0694,,,cellular
+erdos_renyi_265_0.13,265,0.13,6966,183495,190461,0,Variable Vertices/High Edge Probability,53.05859709,4.564456725,7647.780501,0.086,144.1384,0.0006,cellular
+erdos_renyi_266_0.13,266,0.13,6789,175598,182387,0,Variable Vertices/High Edge Probability,50.46151114,4.138927212,6433.030028,0.082,127.4839,0.0006,cellular
+erdos_renyi_266_0.13,266,0.13,6597,166580,173177,0,Variable Vertices/High Edge Probability,51.88683915,3.600285813,(timed out),0.0694,,,cellular
 erdos_renyi_267_0.13,267,0.13,6744,175820,182564,0,Variable Vertices/High Edge Probability,54.78241301,4.239374374,6670.733053,0.0774,121.7678,0.0006,cellular
-erdos_renyi_268_0.13,268,0.13,6910,181133,188043,0,Variable Vertices/High Edge Probability,48.044981,4.576110638,,0.0952,,,cellular
+erdos_renyi_268_0.13,268,0.13,6910,181133,188043,0,Variable Vertices/High Edge Probability,48.044981,4.576110638,6777.262854,0.0952,141.0608,0.0007,cellular
 erdos_renyi_269_0.13,269,0.13,7368,191795,199163,0,Variable Vertices/High Edge Probability,53.29186583,5.250540015,10385.01566,0.0985,194.8706,0.0005,cellular
 erdos_renyi_269_0.13,269,0.13,6482,161947,168429,0,Variable Vertices/High Edge Probability,47.4474082,3.469597284,8338.049794,0.0731,175.7325,0.0004,cellular
 erdos_renyi_269_0.13,269,0.13,7424,191800,199224,0,Variable Vertices/High Edge Probability,69.36268997,5.277779703,9514.04985,0.0761,137.1638,0.0006,cellular
 erdos_renyi_269_0.13,269,0.13,6863,175994,182857,0,Variable Vertices/High Edge Probability,74.25432301,4.202203488,6673.206632,0.0566,89.8696,0.0006,cellular
-erdos_renyi_269_0.13,269,0.13,6901,176284,183185,0,Variable Vertices/High Edge Probability,51.22217894,4.627427803,,0.0903,,,cellular
+erdos_renyi_269_0.13,269,0.13,6901,176284,183185,0,Variable Vertices/High Edge Probability,51.22217894,4.627427803,8211.949067,0.0903,160.3202,0.0006,cellular
 erdos_renyi_272_0.13,272,0.13,7896,210926,218822,0,Variable Vertices/High Edge Probability,61.87143207,6.224250232,11499.03742,0.1006,185.8537,0.0005,cellular
 erdos_renyi_272_0.13,272,0.13,7052,183282,190334,0,Variable Vertices/High Edge Probability,45.06868792,4.562187847,7982.931509,0.1012,177.1281,0.0006,cellular
-erdos_renyi_272_0.13,272,0.13,7112,183981,191093,0,Variable Vertices/High Edge Probability,55.30870819,4.643046047,,0.0839,,,cellular
+erdos_renyi_272_0.13,272,0.13,7112,183981,191093,0,Variable Vertices/High Edge Probability,55.30870819,4.643046047,(timed out),0.0839,,,cellular
 erdos_renyi_273_0.13,273,0.13,6992,182694,189686,0,Variable Vertices/High Edge Probability,51.3096931,4.885664356,9509.380126,0.0952,185.333,0.0005,cellular
 erdos_renyi_273_0.13,273,0.13,7556,197689,205245,0,Variable Vertices/High Edge Probability,53.1058588,5.337701616,9556.950909,0.1005,179.9604,0.0006,cellular
 erdos_renyi_275_0.13,275,0.13,7689,206624,214313,0,Variable Vertices/High Edge Probability,90.37476492,6.434892791,7904.397695,0.0712,87.4624,0.0008,cellular
 erdos_renyi_276_0.13,276,0.13,7686,208643,216329,0,Variable Vertices/High Edge Probability,62.65008497,6.370202422,11732.72536,0.1017,187.2739,0.0005,cellular
-erdos_renyi_276_0.13,276,0.13,7618,203579,211197,0,Variable Vertices/High Edge Probability,59.77110696,6.141984508,,0.1028,,,cellular
+erdos_renyi_276_0.13,276,0.13,7618,203579,211197,0,Variable Vertices/High Edge Probability,59.77110696,6.141984508,9178.149159,0.1028,153.5549,0.0007,cellular
 erdos_renyi_277_0.13,277,0.13,7917,211197,219114,0,Variable Vertices/High Edge Probability,148.704175,6.507261865,11018.65795,0.0438,74.0978,0.0006,cellular
 erdos_renyi_277_0.13,277,0.13,7875,210905,218780,0,Variable Vertices/High Edge Probability,157.5456951,6.882410895,9910.456358,0.0437,62.9053,0.0007,cellular
-erdos_renyi_277_0.13,277,0.13,8109,216563,224672,0,Variable Vertices/High Edge Probability,117.3916709,6.856115176,,0.0584,,,cellular
+erdos_renyi_277_0.13,277,0.13,8109,216563,224672,0,Variable Vertices/High Edge Probability,117.3916709,6.856115176,11016.73976,0.0584,93.846,0.0006,cellular
 erdos_renyi_279_0.13,279,0.13,7271,190178,197449,0,Variable Vertices/High Edge Probability,55.8175528,5.828679827,12007.87239,0.1044,215.1272,0.0005,cellular
 erdos_renyi_279_0.13,279,0.13,7912,211484,219396,0,Variable Vertices/High Edge Probability,152.6055501,6.57569954,10640.74422,0.0431,69.7271,0.0006,cellular
 erdos_renyi_279_0.13,279,0.13,7827,208418,216245,0,Variable Vertices/High Edge Probability,171.6421371,6.521789787,11280.04121,0.038,65.7184,0.0006,cellular
-erdos_renyi_279_0.13,279,0.13,7771,211778,219549,0,Variable Vertices/High Edge Probability,113.3994689,6.848423056,,0.0604,,,cellular
+erdos_renyi_279_0.13,279,0.13,7771,211778,219549,0,Variable Vertices/High Edge Probability,113.3994689,6.848423056,10038.69511,0.0604,88.5251,0.0007,cellular
 erdos_renyi_280_0.13,280,0.13,8040,215240,223280,0,Variable Vertices/High Edge Probability,153.378056,6.914616056,11084.48463,0.0451,72.269,0.0006,cellular
 erdos_renyi_281_0.13,281,0.13,8167,224906,233073,0,Variable Vertices/High Edge Probability,84.39496589,6.643657666,9041.135505,0.0787,107.1288,0.0007,cellular
-erdos_renyi_282_0.13,282,0.13,9209,260230,269439,0,Variable Vertices/High Edge Probability,63.34474611,7.67479725,,0.1212,,,cellular
+erdos_renyi_282_0.13,282,0.13,9209,260230,269439,0,Variable Vertices/High Edge Probability,63.34474611,7.67479725,12963.01423,0.1212,204.6423,0.0006,cellular
 erdos_renyi_283_0.13,283,0.13,8496,235856,244352,0,Variable Vertices/High Edge Probability,102.6093521,6.714683751,11180.12608,0.0654,108.9582,0.0006,cellular
-erdos_renyi_284_0.13,284,0.13,8527,232527,241054,0,Variable Vertices/High Edge Probability,60.55305004,6.74372474,,0.1114,,,cellular
+erdos_renyi_284_0.13,284,0.13,8527,232527,241054,0,Variable Vertices/High Edge Probability,60.55305004,6.74372474,(timed out),0.1114,,,cellular
 erdos_renyi_287_0.13,287,0.13,8317,229631,237948,0,Variable Vertices/High Edge Probability,97.92990303,6.868610053,11588.15888,0.0701,118.3312,0.0006,cellular
 erdos_renyi_288_0.13,288,0.13,8798,244620,253418,0,Variable Vertices/High Edge Probability,101.7842231,7.318025509,10616.38228,0.0719,104.3028,0.0007,cellular
-erdos_renyi_288_0.13,288,0.13,8251,222441,230692,0,Variable Vertices/High Edge Probability,65.14079094,6.280224497,,0.0964,,,cellular
-erdos_renyi_289_0.13,289,0.13,8491,232497,240988,0,Variable Vertices/High Edge Probability,68.47210789,7.04687283,,0.1029,,,cellular
-erdos_renyi_290_0.13,290,0.13,8438,229611,238049,0,Variable Vertices/High Edge Probability,61.54944587,6.874184123,,0.1117,,,cellular
+erdos_renyi_288_0.13,288,0.13,8251,222441,230692,0,Variable Vertices/High Edge Probability,65.14079094,6.280224497,11257.60567,0.0964,172.8196,0.0006,cellular
+erdos_renyi_289_0.13,289,0.13,8491,232497,240988,0,Variable Vertices/High Edge Probability,68.47210789,7.04687283,11859.63242,0.1029,173.2038,0.0006,cellular
+erdos_renyi_290_0.13,290,0.13,8438,229611,238049,0,Variable Vertices/High Edge Probability,61.54944587,6.874184123,(timed out),0.1117,,,cellular
 erdos_renyi_291_0.13,291,0.13,9253,260974,270227,0,Variable Vertices/High Edge Probability,116.611784,7.140913176,16383.69619,0.0612,140.4978,0.0004,cellular
 erdos_renyi_293_0.13,293,0.13,8725,240438,249163,0,Variable Vertices/High Edge Probability,75.58384395,6.636616861,14909.33473,0.0878,197.2556,0.0004,cellular
-erdos_renyi_294_0.13,294,0.13,8705,246859,255564,0,Variable Vertices/High Edge Probability,87.282408,7.701315437,,0.0882,,,cellular
+erdos_renyi_294_0.13,294,0.13,8705,246859,255564,0,Variable Vertices/High Edge Probability,87.282408,7.701315437,(timed out),0.0882,,,cellular
 erdos_renyi_295_0.13,295,0.13,9059,258320,267379,0,Variable Vertices/High Edge Probability,143.74137,7.49314718,12494.98403,0.0521,86.9268,0.0006,cellular
 erdos_renyi_296_0.13,296,0.13,8916,251130,260046,0,Variable Vertices/High Edge Probability,108.8694379,6.496669213,16200.65137,0.0597,148.8081,0.0004,cellular
 erdos_renyi_296_0.13,296,0.13,9083,261099,270182,0,Variable Vertices/High Edge Probability,77.43426108,8.433205495,17375.70701,0.1089,224.393,0.0005,cellular
-erdos_renyi_296_0.13,296,0.13,9025,255019,264044,0,Variable Vertices/High Edge Probability,143.313292,7.262325108,,0.0507,,,cellular
-erdos_renyi_297_0.13,297,0.13,10162,293570,303732,0,Variable Vertices/High Edge Probability,88.00425601,9.508908728,,0.1081,,,cellular
-erdos_renyi_298_0.13,298,0.13,10082,293242,303324,0,Variable Vertices/High Edge Probability,78.15645218,9.594370625,,0.1228,,,cellular
+erdos_renyi_296_0.13,296,0.13,9025,255019,264044,0,Variable Vertices/High Edge Probability,143.313292,7.262325108,(timed out),0.0507,,,cellular
+erdos_renyi_297_0.13,297,0.13,10162,293570,303732,0,Variable Vertices/High Edge Probability,88.00425601,9.508908728,(timed out),0.1081,,,cellular
+erdos_renyi_298_0.13,298,0.13,10082,293242,303324,0,Variable Vertices/High Edge Probability,78.15645218,9.594370625,(timed out),0.1228,,,cellular
 erdos_renyi_101_0.07,101,0.07,72,368,440,20,Variable Vertices/Low Edge Probability,0.680668116,0.000499747,1.874083668,0.0007,2.7533,0.0003,cellular
 erdos_renyi_101_0.07,101,0.07,60,304,364,31,Variable Vertices/Low Edge Probability,0.427176952,0.000418816,1.603928084,0.001,3.7547,0.0003,cellular
 erdos_renyi_101_0.07,101,0.07,56,255,311,45,Variable Vertices/Low Edge Probability,0.429152012,0.000371153,1.132463856,0.0009,2.6388,0.0003,cellular
